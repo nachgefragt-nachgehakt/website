@@ -1,2 +1,3 @@
 # website
-Repository which will contain our website
+
+Die Website unseres Projektes.
